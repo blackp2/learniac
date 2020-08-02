@@ -2,7 +2,7 @@ version: 2.1
 orbs:
   node: circleci/node@1.0.1
   gcp-gke: circleci/gcp-gke@0.1.0
-  terraform: devops-workflow/terraform@0.0.1
+  terraform: circleci/terraform@1.0.1
 jobs:
   run_tests:
     docker:
