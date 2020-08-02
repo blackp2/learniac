@@ -40,7 +40,7 @@ jobs:
     docker:
       - image: ariv3ra/terraform-gcp:latest
     environment:
-      CLOUDSDK_CORE_PROJECT: cicd-workshops
+      CLOUDSDK_CORE_PROJECT: playground-285210
     steps:
       - checkout
       - run:
@@ -55,9 +55,9 @@ jobs:
             terraform apply plan.txt
   gke_deploy_app:
     docker:
-      - image: hashicorp/terraform:latest
+      - image: ariv3ra/terraform-gcp:latest
     environment:
-      CLOUDSDK_CORE_PROJECT: cicd-workshops
+      CLOUDSDK_CORE_PROJECT: playground-285210
     steps:
       - checkout
       - run:
@@ -85,7 +85,7 @@ jobs:
     docker:
       - image: ariv3ra/terraform-gcp:latest
     environment:
-      CLOUDSDK_CORE_PROJECT: cicd-workshops
+      CLOUDSDK_CORE_PROJECT: playground-285210
     steps:
       - checkout
       - run:
