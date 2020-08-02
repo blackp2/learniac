@@ -44,6 +44,7 @@ jobs:
     steps:
       - checkout
       - gcp-gke/install
+      - terraform/init
       - run:
           name: Create GKE Cluster
           command: |
