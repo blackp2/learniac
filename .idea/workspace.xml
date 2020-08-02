@@ -37,6 +37,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596391334404</updated>
-      <workItem from="1596391335609" duration="1664000" />
+      <workItem from="1596391335609" duration="2216000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1596392639631</created>
@@ -62,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596392821088</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1596393131699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596393131699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,9 +101,9 @@
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="684" y="249" key="RollbackChangesDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1596391724330" />
-    <state x="496" y="280" key="Vcs.Push.Dialog.v2" timestamp="1596392824585">
+    <state x="496" y="280" key="Vcs.Push.Dialog.v2" timestamp="1596393136020">
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
-    <state x="496" y="280" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1596392824585" />
+    <state x="496" y="280" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1596393136020" />
   </component>
 </project>
