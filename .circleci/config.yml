@@ -55,7 +55,7 @@ jobs:
             terraform apply plan.txt
   gke_deploy_app:
     docker:
-      - image: ariv3ra/terraform-gcp:latest
+      - image: hashicorp/terraform:latest
     environment:
       CLOUDSDK_CORE_PROJECT: cicd-workshops
     steps:
