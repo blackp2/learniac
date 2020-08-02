@@ -3,7 +3,7 @@ orbs:
   node: circleci/node@1.0.1
   gcp-gke: circleci/gcp-gke@0.1.0
   gcr: circleci/gcp-gcr@0.0.2
-  terraform: ovotech/terraform@1.6.9
+  terraform: ngs/terraform@0.0.1
 jobs:
   run_tests:
     docker:
