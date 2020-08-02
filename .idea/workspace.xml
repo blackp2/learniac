@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596391334404</updated>
-      <workItem from="1596391335609" duration="2700000" />
+      <workItem from="1596391335609" duration="3080000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1596392639631</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596393700932</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1596394350747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596394350747</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,9 +115,9 @@
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="684" y="249" key="RollbackChangesDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1596391724330" />
-    <state x="496" y="280" key="Vcs.Push.Dialog.v2" timestamp="1596393704915">
+    <state x="496" y="280" key="Vcs.Push.Dialog.v2" timestamp="1596394353770">
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
-    <state x="496" y="280" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1596393704915" />
+    <state x="496" y="280" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1596394353770" />
   </component>
 </project>
