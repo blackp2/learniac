@@ -43,6 +43,7 @@ jobs:
       CLOUDSDK_CORE_PROJECT: cicd-workshops
     steps:
       - checkout
+      - gcp-gke/install
       - run:
           name: Create GKE Cluster
           command: |
