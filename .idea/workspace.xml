@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42cc1a7b-23b0-4a5d-bb78-0e7f6e0cb3b6" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="42cc1a7b-23b0-4a5d-bb78-0e7f6e0cb3b6" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596391334404</updated>
-      <workItem from="1596391335609" duration="4706000" />
+      <workItem from="1596391335609" duration="5303000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1596392639631</created>
@@ -147,7 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1596396099516</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Initial commit">
+      <created>1596396382220</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596396382220</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Initial commit">
+      <created>1596396481305</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596396481305</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Initial commit">
+      <created>1596396611576</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596396611576</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,9 +192,9 @@
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="684" y="249" key="RollbackChangesDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1596391724330" />
-    <state x="496" y="280" key="Vcs.Push.Dialog.v2" timestamp="1596396105011">
+    <state x="496" y="280" key="Vcs.Push.Dialog.v2" timestamp="1596396615069">
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
-    <state x="496" y="280" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1596396105011" />
+    <state x="496" y="280" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1596396615069" />
   </component>
 </project>
