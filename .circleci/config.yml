@@ -38,13 +38,11 @@ jobs:
             docker push $DOCKER_LOGIN/$IMAGE_NAME
   gke_create_cluster:
     docker:
-      - image: blackp2/learniac:latest
+      - image: ariv3ra/terraform-gcp:latest
     environment:
       CLOUDSDK_CORE_PROJECT: cicd-workshops
     steps:
       - checkout
-      - gcp-gke/install
-      - terraform/init
       - run:
           name: Create GKE Cluster
           command: |
@@ -57,7 +55,7 @@ jobs:
             terraform apply plan.txt
   gke_deploy_app:
     docker:
-      - image: blackp2/learniac:latest
+      - image: ariv3ra/terraform-gcp:latest
     environment:
       CLOUDSDK_CORE_PROJECT: cicd-workshops
     steps:
@@ -85,7 +83,7 @@ jobs:
             - "*"
   gke_destroy_cluster:
     docker:
-      - image: blackp2/learniac:latest
+      - image: ariv3ra/terraform-gcp:latest
     environment:
       CLOUDSDK_CORE_PROJECT: cicd-workshops
     steps:
@@ -99,7 +97,7 @@ jobs:
             echo $TF_CLOUD_TOKEN | base64 -d > $HOME/.terraformrc
             echo $GOOGLE_CLOUD_KEYS | base64 -d > $HOME/gcloud_keys
             gcloud auth activate-service-account --key-file ${HOME}/gcloud_keys
-            cd part03/iac_kubernetes_app
+            cd part02/iac_kubernetes_app
             terraform init
             gcloud container clusters get-credentials $CLUSTER_NAME --zone="europe-west2-a"
             terraform destroy -var $DOCKER_IMAGE --auto-approve

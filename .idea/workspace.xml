@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="42cc1a7b-23b0-4a5d-bb78-0e7f6e0cb3b6" name="Default Changelist" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596391334404</updated>
-      <workItem from="1596391335609" duration="5690000" />
+      <workItem from="1596391335609" duration="7055000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1596392639631</created>
@@ -175,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596397264380</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Initial commit">
+      <created>1596397499467</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596397499467</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Initial commit">
+      <created>1596397704638</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596397704638</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,9 +216,9 @@
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="684" y="249" key="RollbackChangesDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1596391724330" />
-    <state x="496" y="280" key="Vcs.Push.Dialog.v2" timestamp="1596397269030">
+    <state x="496" y="280" key="Vcs.Push.Dialog.v2" timestamp="1596397710053">
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
-    <state x="496" y="280" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1596397269030" />
+    <state x="496" y="280" key="Vcs.Push.Dialog.v2/0.23.1792.1034@0.23.1792.1034" timestamp="1596397710053" />
   </component>
 </project>
